@@ -2048,7 +2048,7 @@ window.WanderBangla = {
 // LOAD CHECK
 // ============================================================
 
-console.log("🌿 WanderBangla data.js v5.0 loaded");
+console.log("🌿 WanderBangla shuvo.js v5.0 loaded");
 console.log("📍 Destinations:", destinations.length);
 console.log("🍛 Foods:", foods.length);
 console.log("🎭 Culture:", cultures.length);
